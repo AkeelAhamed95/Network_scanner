@@ -1,0 +1,17 @@
+Step - First before pushing a project to github you have to create a new repository under the git website, give the repository a name and a description and then click create repository
+Step -  Navigate to the project root directory in terminal and then type "touch README.md"
+//edit README.md file
+
+"touch .gitignore"
+"git init"
+"git add ."
+git commit -m "Describe your changes"
+git remote add origin https://github.com/AkeelAhamed95/<my repo name>.git
+git push -u origin master
+and then enter your github username and password
+
+after you make changes to your projects 
+"git add ."
+git commit -m "decribe your changes"
+"git push"
+enter github username and password
